@@ -1,6 +1,7 @@
 # temperature to  Fan control system
 
-    this project main idea is to take the temperature from LM35 temperature sensor then using adc to convert the signal to digital after that using the value to display it on the screen and produce pwm signal to the fan.
+    this project main idea is to take the temperature from LM35 temperature sensor then using adc to convert the signal to digital 
+    after that using the value to display it on the screen and produce pwm signal to the fan.
     the target was AVR16 
 
 ![](data/simulation.gif)
